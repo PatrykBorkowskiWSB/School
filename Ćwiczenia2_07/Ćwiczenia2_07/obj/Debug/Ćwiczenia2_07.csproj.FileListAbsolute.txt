@@ -1,0 +1,8 @@
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\bin\Debug\Ćwiczenia2_07.exe.config
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\bin\Debug\Ćwiczenia2_07.exe
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\bin\Debug\Ćwiczenia2_07.pdb
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\obj\Debug\Ćwiczenia2_07.csproj.AssemblyReference.cache
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\obj\Debug\Ćwiczenia2_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\obj\Debug\Ćwiczenia2_07.csproj.CoreCompileInputs.cache
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\obj\Debug\Ćwiczenia2_07.exe
+C:\Users\Borek\Desktop\Ćwiczenia2_07\Ćwiczenia2_07\obj\Debug\Ćwiczenia2_07.pdb

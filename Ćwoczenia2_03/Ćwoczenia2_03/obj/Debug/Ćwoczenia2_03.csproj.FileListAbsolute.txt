@@ -1,0 +1,8 @@
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\obj\Debug\Ćwoczenia2_03.csproj.AssemblyReference.cache
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\obj\Debug\Ćwoczenia2_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\obj\Debug\Ćwoczenia2_03.csproj.CoreCompileInputs.cache
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\bin\Debug\Ćwoczenia2_03.exe.config
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\bin\Debug\Ćwoczenia2_03.exe
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\bin\Debug\Ćwoczenia2_03.pdb
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\obj\Debug\Ćwoczenia2_03.exe
+C:\Users\Borek\Desktop\Ćwoczenia2_03\Ćwoczenia2_03\obj\Debug\Ćwoczenia2_03.pdb
