@@ -1,0 +1,8 @@
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\bin\Debug\Ćwiczenie3_022.exe.config
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\bin\Debug\Ćwiczenie3_022.exe
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\bin\Debug\Ćwiczenie3_022.pdb
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\obj\Debug\Ćwiczenie3_022.csproj.AssemblyReference.cache
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\obj\Debug\Ćwiczenie3_022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\obj\Debug\Ćwiczenie3_022.csproj.CoreCompileInputs.cache
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\obj\Debug\Ćwiczenie3_022.exe
+C:\Users\Borek\source\repos\Ćwiczenie3_022\Ćwiczenie3_022\obj\Debug\Ćwiczenie3_022.pdb
