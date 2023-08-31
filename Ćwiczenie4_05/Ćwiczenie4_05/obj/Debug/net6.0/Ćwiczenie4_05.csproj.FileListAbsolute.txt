@@ -1,0 +1,15 @@
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\bin\Debug\net6.0\Ćwiczenie4_05.exe
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\bin\Debug\net6.0\Ćwiczenie4_05.deps.json
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\bin\Debug\net6.0\Ćwiczenie4_05.runtimeconfig.json
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\bin\Debug\net6.0\Ćwiczenie4_05.dll
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\bin\Debug\net6.0\Ćwiczenie4_05.pdb
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.csproj.AssemblyReference.cache
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.AssemblyInfoInputs.cache
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.AssemblyInfo.cs
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.csproj.CoreCompileInputs.cache
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.dll
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\refint\Ćwiczenie4_05.dll
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.pdb
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\Ćwiczenie4_05.genruntimeconfig.cache
+C:\Users\Borek\Desktop\Projekty\Ćwiczenie4_05\Ćwiczenie4_05\obj\Debug\net6.0\ref\Ćwiczenie4_05.dll
